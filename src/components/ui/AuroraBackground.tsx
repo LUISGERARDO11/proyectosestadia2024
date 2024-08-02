@@ -45,7 +45,7 @@ export const AuroraBackground = ({
             )}
           ></div>
         </div>
-        <div className="absolute inset-0 bg-gradient-to-b from-transparent to-black opacity-100"></div>
+        <div className="absolute inset-0 dark:bg-gradient-to-b dark:from-transparent dark:to-black dark:opacity-100"></div>
         <div className="relative z-10">
           {children}
         </div>

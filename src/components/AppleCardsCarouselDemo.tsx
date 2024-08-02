@@ -171,7 +171,7 @@ const data = [
       title: "Predicción Avanzada de Resultados en Partidos de Fútbol",
       src: "https://images.unsplash.com/photo-1551958219-acbc608c6377?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       content: <DummyContent />,
-      link: "https://example.com/ai", // Añade el enlace aquí
+      link:"https://intellibetfront.onrender.com/", // Añade el enlace aquí
     },
     {
       category: "Ciencia y Publicaciones Académicas",

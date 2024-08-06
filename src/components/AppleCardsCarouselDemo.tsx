@@ -122,7 +122,7 @@ const DummyContent = () => {
           <span className="font-bold text-neutral-700 dark:text-neutral-200">
           Explora más{" "}
           <a
-            href="https://example.com/productivity"
+            href="https://air-proyect-1.onrender.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="underline text-white-600 dark:text-white-400"
@@ -133,11 +133,11 @@ const DummyContent = () => {
         </span>
         </p>
         <Image
-          src="https://assets.aceternity.com/macbook.png"
-          alt="Macbook mockup from Aceternity UI"
-          height="500"
-          width="500"
-          className="md:w-1/2 md:h-1/2 h-full w-full mx-auto object-contain"
+          src="/sspryair.png"
+          alt="Bienvenida page"
+          height="1000"
+          width="1000"
+          className="md:w-3/4 md:h-3/4 h-full w-full mx-auto object-contain mt-8"
         />
       </div>
     );
@@ -206,7 +206,7 @@ const data = [
       title: "Monitoreo y Predicción Inteligente de la Calidad del Aire",
       src: "https://images.unsplash.com/photo-1701146125128-b0b03267e58a?q=80&w=2572&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       content: <DummyContentAir />,
-      link: "https://example.com/apple-vision-pro", // Añade el enlace aquí
+      link: "https://air-proyect-1.onrender.com/",
     },
     {
       category: "Educación y Seguridad",

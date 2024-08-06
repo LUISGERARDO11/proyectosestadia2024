@@ -44,11 +44,25 @@ const DummyContent = () => {
         </span>
         </p>
         <Image
-          src="https://assets.aceternity.com/macbook.png"
-          alt="Macbook mockup from Aceternity UI"
-          height="500"
-          width="500"
-          className="md:w-1/2 md:h-1/2 h-full w-full mx-auto object-contain"
+          src="/sspryfut.png"
+          alt="Bienvenida"
+          height="1000"
+          width="1000"
+          className="md:w-3/4 md:h-3/4 h-full w-full mx-auto object-contain mt-8"
+        />
+        <Image
+          src="/ss2pryfut.png"
+          alt="Próximo encuentro"
+          height="1000"
+          width="1000"
+          className="md:w-3/4 md:h-3/4 h-full w-full mx-auto object-contain mt-8"
+        />
+        <Image
+          src="/ss3pryfut.png"
+          alt="Partidos agendados"
+          height="1000"
+          width="1000"
+          className="md:w-3/4 md:h-3/4 h-full w-full mx-auto object-contain mt-8"
         />
       </div>
     );
@@ -144,7 +158,7 @@ const DummyContent = () => {
           <span className="font-bold text-neutral-700 dark:text-neutral-200">
           Explora más{" "}
           <a
-            href="https://example.com/productivity"
+            href="https://prychatfriend-1-a9zh.onrender.com"
             target="_blank"
             rel="noopener noreferrer"
             className="underline text-white-600 dark:text-white-400"
@@ -155,11 +169,18 @@ const DummyContent = () => {
         </span>
         </p>
         <Image
-          src="https://assets.aceternity.com/macbook.png"
-          alt="Macbook mockup from Aceternity UI"
-          height="500"
-          width="500"
-          className="md:w-1/2 md:h-1/2 h-full w-full mx-auto object-contain"
+          src="/ss1prychat.png"
+          alt="Bienvenida page"
+          height="1000"
+          width="1000"
+          className="md:w-3/4 md:h-3/4 h-full w-full mx-auto object-contain mt-8"
+        />
+        <Image
+          src="/ss2prychat.png"
+          alt="Chat Bot page"
+          height="1000"
+          width="1000"
+          className="md:w-3/4 md:h-3/4 h-full w-full mx-auto object-contain mt-8"
         />
       </div>
     );
@@ -171,7 +192,7 @@ const data = [
       title: "Predicción Avanzada de Resultados en Partidos de Fútbol",
       src: "https://images.unsplash.com/photo-1551958219-acbc608c6377?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       content: <DummyContent />,
-      link:"https://intellibetfront.onrender.com/", // Añade el enlace aquí
+      link:"https://intellibetfront.onrender.com/", 
     },
     {
       category: "Ciencia y Publicaciones Académicas",
@@ -192,7 +213,7 @@ const data = [
       title: "Chatbot Inteligente para la Prevención del Bullying Escolar",
       src: "https://plus.unsplash.com/premium_photo-1682024745224-2edf92747598?q=80&w=2584&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       content: <DummyContentCht />,
-      link: "https://example.com/maps-iphone", // Añade el enlace aquí
+      link: "https://prychatfriend-1-a9zh.onrender.com", 
     },
   ];
   

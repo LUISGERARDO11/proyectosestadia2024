@@ -85,7 +85,7 @@ const DummyContent = () => {
         <span className="font-bold text-neutral-700 dark:text-neutral-200">
           Explora más{" "}
           <a
-            href="https://example.com/productivity"
+            href="https://revistad-1.onrender.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="underline text-white-600 dark:text-white-400"
@@ -96,12 +96,12 @@ const DummyContent = () => {
         </span>
       </p>
       <Image
-        src="https://assets.aceternity.com/macbook.png"
-        alt="Macbook mockup from Aceternity UI"
-        height="500"
-        width="500"
-        className="md:w-1/2 md:h-1/2 h-full w-full mx-auto object-contain"
-      />
+          src="/sspryrev.png"
+          alt="Bienvenida page"
+          height="1000"
+          width="1000"
+          className="md:w-3/4 md:h-3/4 h-full w-full mx-auto object-contain mt-8"
+        />
     </div>
   );
 };
@@ -199,7 +199,7 @@ const data = [
       title: "Repositorio Digital de Revistas y Documentos Científicos.",
       src: "https://plus.unsplash.com/premium_photo-1681487433878-d5c4bedd7a57?q=80&w=2661&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       content: <DummyContentRev />,
-      link: "https://example.com/productivity", // Añade el enlace aquí
+      link: "https://revistad-1.onrender.com/", // Añade el enlace aquí
     },
     {
       category: "Tecnología y Salud Ambiental",
